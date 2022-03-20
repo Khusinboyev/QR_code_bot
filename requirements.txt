@@ -1,0 +1,4 @@
+aiogram~=2.18
+googletrans~=3.1.0a0
+pytz~=2021.3
+deep-translator~=1.7.0
